@@ -8,3 +8,5 @@ grep nologin /etc/passwd
 
 top -5 /etc/passwd
 tail -3 /etc/passwd
+
+ls -la
