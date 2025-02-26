@@ -4,4 +4,4 @@ ls -l
 
 cat /etc/passwd
 
-grep nologin /etc/passwd
+echo "grep nologin /etc/passwd"
