@@ -1,4 +1,4 @@
-echo "Enter the number for division"
+echo "Enter the number for division:"
 read num
 
 if (( num % 3 == 0 )); then
