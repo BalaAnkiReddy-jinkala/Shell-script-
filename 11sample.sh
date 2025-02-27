@@ -4,5 +4,5 @@ read num
 if ["$num"%3]; then
   echo "This number is division by 3"
 else
-  echo "this numberis not divibile by 3"
+  echo "this number is not division by 3"
 fi
